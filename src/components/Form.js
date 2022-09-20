@@ -23,7 +23,6 @@ export default function Form() {
                     </p>
                 </form>
             </div>
-
             <div className='col-2'>
                 <img src={bgimg} alt=""/>
             </div>
